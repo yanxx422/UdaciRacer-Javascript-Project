@@ -2,7 +2,9 @@
 
 ## Project Introduction
 
-This is a game that races cars Throughout the game logic. It is the third project of Udacity Intermediate JavaScript Program.
+This is a game which allows a user to race a simulated racer. Players will get to choose their racer and the track they want to race on. The strategy of the game is for each player to choose a pod racer they expect to win over a certain race track based on the pod’s characteristics (acceleration, handling, and top speed).
+
+This racing game runs as a Node application and it is the third project of Udacity Intermediate JavaScript Program.
 
 The game mechanics are this: you select a player and track, the game begins and you accelerate your racer by clicking an acceleration button. As you accelerate so do the other players and the leaderboard live-updates as players change position on the track. The final view is a results page displaying the players' rankings.
 
@@ -13,14 +15,10 @@ The game has three main views:
 2. The race progress view (this includes the live-updating leaderboard and acceleration button)
 
 3. The race results view
+![image](https://user-images.githubusercontent.com/24535066/159063777-a1d4783a-f907-4fc2-b499-a4d2a8e44f35.png)
+![image](https://user-images.githubusercontent.com/24535066/159063903-73fdba39-b4ae-4699-a070-71c362817575.png)
+![image](https://user-images.githubusercontent.com/24535066/159063872-f5757a13-2c0a-4623-ba40-6c8192229b5e.png)
 
-## Starter Code
-
-The following code is provided:
-
-1. An API. The API is provided in the form of a binary held in the bin folder. You never need to open the binary file, as there are no edits you can make to it. Your work will be 100% in the front end.
-
-2. HTML Views. The focus of this course is not UI development or styling practice, so we have already provided you with pieces of UI, all you have to do is call them at the right times.
 
 ## Getting Started
 
